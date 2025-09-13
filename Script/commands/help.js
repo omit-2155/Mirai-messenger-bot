@@ -34,8 +34,8 @@ module.exports.run = function ({ api, event }) {
 
 ╭──── [ 𝗖𝗛𝗔𝗧 𝗔𝗜 ]
 │ ✧ baby✧ bby✧ jan✧
-│ ✧ maria✧ hippi✧ mona✧
-│ ✧ maria rani✧ bbz
+│ ✧ Sara✧ hippi✧ botbaby✧
+│ ✧ sarabbz✧ bbz
 ╰───────────────◊
 ╭──── [ UTILITY ]
 │ ✧ accept✧ adc✧ age
@@ -73,13 +73,13 @@ module.exports.run = function ({ api, event }) {
 ╭──── [ VOICE & PHOTOS ]
 │ ✧ ekta gan bolo✧ ghumabo
 │ ✧ i love you✧ voice✧ holpagol
-│ ✧ maria pik dew✧ khabo✧ bara
+│ ✧ khabo✧ bara
 ╰───────────────◊
-╭─『 RX  CHAT BOT 』
+╭─『 𝗦ᴀ𝗥ᴀ𝗕ʙ𝘇 』
 ╰‣ Total commands: ${totalCmds}
 ╰‣ A Facebook Bot
-╰‣ CEO : Maria 🧃🐣
-╰‣ ADMIN: rX Abdullah
+╰‣ CEO : Sara 😩🫶🏻
+╰‣ ADMIN: Jisan Chy
 ╰‣ RIPORT FOR ISSUE,
    type !callad (yourtext)
 `;
