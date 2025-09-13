@@ -22,7 +22,7 @@ module.exports.run = async function({ api, event }) {
 ┏━━━━━━━━━━━━━━━━━━━━━┓
 ┃      🌟 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 🌟      
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 👤 𝐍𝐚𝐦𝐞  : JISAN CHY
+┃ 👤 𝐍𝐚𝐦𝐞  : Jisan chy
 ┃ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫  : 𝐌𝐚𝐥𝐞
 ┃ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧  : !?
 ┃ 🎂 𝐀𝐠𝐞      :!? 
@@ -40,7 +40,7 @@ module.exports.run = async function({ api, event }) {
         attachment: fs.createReadStream(__dirname + "/cache/1.png")
     }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/1.png"));
   
-    return request(encodeURI(`https://graph.facebook.com/100068565380737/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`))
+    return request(encodeURI(`https://graph.facebook.com/61578598505328/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`))
         .pipe(fs.createWriteStream(__dirname + '/cache/1.png'))
         .on('close', () => callback());
 };
