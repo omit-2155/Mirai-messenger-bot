@@ -34,7 +34,7 @@ const imageTriggers = [
     fileName: "handel.jpg"
   },
   {
-    keywords: ["maria pik", "maria pik daw"],
+    keywords: ["sara pic", "sara pic daw"],
     imageUrl: "https://i.postimg.cc/qMwr5nh6/IMG-6381.jpg",
     reply: "🎀🧃",
     fileName: "maria.jpg"
