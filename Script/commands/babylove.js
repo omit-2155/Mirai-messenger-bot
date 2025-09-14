@@ -46,7 +46,7 @@ const triggers = [
     fileName: "explain.mp3"
   },
   {
-    keywords: ["maria gan", "maria vabi gan"],
+    keywords: ["sara gan", "sara vabi gan"],
     audioUrl: "https://files.catbox.moe/vw58fi.mp3",
     reply: "",
     fileName: "mariasong.mp3"
