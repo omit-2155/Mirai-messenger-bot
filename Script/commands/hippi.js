@@ -158,7 +158,7 @@ try{
    const body = event.body ? event.body?.toLowerCase() : ""
         if (body.startsWith("বেবি") || body.startsWith("hippi") || body.startsWith("bepi") || body.startsWith("bby") || body.startsWith("sara") || body.startsWith("baby")) {
             const arr = body.replace(/^\S+\s*/, "")
-        const randomReplies = ["💋", "Yes 🌚, I am here", "Hey Xan Trust Me I'm Sara Bbz", "Bolo jaan ki korte pari tumar jonno"];
+        const randomReplies = ["💋", "Yes 🌚, I am here", "Hey Xan Trust Me I'm Sara Bbz", "Bolo jaan ki korte pari tumar jonno","Tumake amar boss jisan, mone mone valobase 🥲🫶🏻"];
             if (!arr) {
     await api.sendMessage(randomReplies[Math.floor(Math.random() * randomReplies.length)], event.threadID, (error, info) => {
             global.client.handleReply.push({
