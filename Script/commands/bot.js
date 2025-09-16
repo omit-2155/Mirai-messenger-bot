@@ -53,7 +53,8 @@ module.exports.handleEvent = async function({ api, event, Users }) {
       "এতো ডাকছিস কেন? গালি শুনবি নাকি? 🤬",
       "Tumake amar boss jisan, mone mone valobase 🥲🫶🏻",
       "Please amar jisan boss er proposal accept koro 😭💔",
-      "Tumi amar jisan boss er crush 😗💋"
+      "Tumi amar jisan boss er crush 😗💋",
+      "বন্ধুর সাথে ছেকা খাওয়া গান শুনতে শুনতে-🤧 -এখন আমিও বন্ধুর 𝙴𝚇 কে অনেক 𝙼𝙸𝚂𝚂 করি-🤕🥺"
     ];
     const randReply = replies[Math.floor(Math.random() * replies.length)];
 
