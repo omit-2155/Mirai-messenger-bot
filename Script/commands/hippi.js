@@ -156,9 +156,9 @@ try{
 module.exports.handleEvent = async function ({ api, event }) {
 try{
    const body = event.body ? event.body?.toLowerCase() : ""
-        if (body.startsWith("বেবি") || body.startsWith("hippi") || body.startsWith("bepi") || body.startsWith("bby") || body.startsWith("sara") || body.startsWith("baby")) {
+        if (body.startsWith("বেবি") || body.startsWith("Yo yo") || body.startsWith("bepi") || body.startsWith("bby") || body.startsWith("sara") || body.startsWith("baby")) {
             const arr = body.replace(/^\S+\s*/, "")
-        const randomReplies = ["💋", "Yes 🌚, I am here", "Hey Xan Trust Me I'm Sara Bbz", "Bolo jaan ki korte pari tumar jonno","Tumake amar boss jisan, mone mone valobase 🥲🫶🏻"];
+        const randomReplies = ["💋", "Yes 🌚, I am here", "Hey Xan Trust Me I'm Sara Bbz", "Bolo jaan ki korte pari tumar jonno","Tumake amar boss jisan, mone mone valobase 🥲🫶🏻","আম গাছে আম নাই ঢিল কেন মারো, তোমার সাথে প্রেম নাই বেবি কেন ডাকো 😒🫣"];
             if (!arr) {
     await api.sendMessage(randomReplies[Math.floor(Math.random() * randomReplies.length)], event.threadID, (error, info) => {
             global.client.handleReply.push({
