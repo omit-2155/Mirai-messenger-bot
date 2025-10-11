@@ -18,7 +18,7 @@ module.exports.config = {
 
 module.exports.languages = {
   "en": {
-    "moduleInfo": `╭──────•◈•──────╮\n |        𝗿𝗫 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁\n |●𝗡𝗮𝗺𝗲: •—» %1 «—•\n |●𝗨𝘀𝗮𝗴𝗲: %3\n |●𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: %2\n |●𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: %4\n |●𝗪𝗮𝗶𝘁𝗶𝗻𝗴 𝘁𝗶𝗺𝗲: %5 second(s)\n |●𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻: %6\n |𝗠𝗼𝗱𝘂𝗹𝗲 𝗰𝗼𝗱𝗲 𝗯𝘆\n |•—» rX Abdullah «—•\n╰──────•◈•──────╯`,
+    "moduleInfo": `╭──────•◈•──────╮\n |        𐌽𝒖𝙨𝒖 𝗕ʙ𝘇❣︎☻\n |●𝗡𝗮𝗺𝗲: •—» %1 «—•\n |●𝗨𝘀𝗮𝗴𝗲: %3\n |●𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: %2\n |●𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: %4\n |●𝗪𝗮𝗶𝘁𝗶𝗻𝗴 𝘁𝗶𝗺𝗲: %5 second(s)\n |●𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻: %6\n |𝗠𝗼𝗱𝘂𝗹𝗲 𝗰𝗼𝗱𝗲 𝗯𝘆\n |•—» 𝗢𝗠𝗜𝗧 𝗛𝗔𝗦𝗔𝗡 «—•\n╰──────•◈•──────╯`,
     "user": "User",
     "adminGroup": "Admin group",
     "adminBot": "Admin bot"
@@ -75,11 +75,11 @@ module.exports.run = function ({ api, event }) {
 │ ✧ i love you✧ voice✧ holpagol
 │ ✧ khabo✧ bara
 ╰───────────────◊
-╭─『 𝗦ᴀ𝗥ᴀ𝗕ʙ𝘇 』
+╭─『 𐌽𝒖𝙨𝒖 𝗕ʙ𝘇❣︎☻ 』
 ╰‣ Total commands: ${totalCmds}
 ╰‣ A Facebook Bot
-╰‣ CEO : Sara 😩🫶🏻
-╰‣ ADMIN: Jisan Chy
+╰‣ CEO : 𐌽𝒖𝙨𝒖 😩🫶🏻
+╰‣ ADMIN: 𝗢𝗠𝗜𝗧 𝗛𝗔𝗦𝗔𝗡
 ╰‣ RIPORT FOR ISSUE,
    type !callad (yourtext)
 `;
