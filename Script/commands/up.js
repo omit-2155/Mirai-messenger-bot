@@ -62,7 +62,7 @@ module.exports = {
       // Final message with full digital style ───×
       const info = `
 ╭───× 𝐒𝐞𝐫𝐯𝐞𝐫 𝐢𝐧𝐟𝐨 ×───╮
-│ ᰔ𝐌𝐚𝐫𝐢𝐚 × 𝐫𝐗 𝐂𝐡𝐚𝐭𝐛𝐨𝐭
+│ 𝗢𝗠𝗜𝗧 𝗛𝗔𝗦𝗔𝗡❣︎☻𐌽𝒖𝙨𝒖 𝗕ʙ𝘇
 │ ───×
 │ ⏳ RUNTIME INFO
 │ ───×
@@ -78,7 +78,7 @@ module.exports = {
 │ RAM USAGE  : ${usedMemory.toFixed(2)} GB / ${totalMemory.toFixed(2)} GB
 │ ───×
 │ 🧠 ADVANCED DEVICE KNOWLEDGE (ADK)
-│ HOSTNAME    : 𝐡𝐢𝐝𝐞 𝐛𝐲 𝐫𝐗
+│ HOSTNAME    : 𝗢𝗠𝗜𝗧 𝗛𝗔𝗦𝗔𝗡
 │ LOAD AVG    : ${loadAvg}
 │ TOTAL CORES : ${totalCores}
 │ OS UPTIME   : ${osUptime}
